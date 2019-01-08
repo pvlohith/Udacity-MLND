@@ -22,7 +22,7 @@ A wholesale distributor recently tested a change to their delivery method for so
 ## Software and Libraries
 This project uses the following software and Python libraries:
 
-- [Python 2.7](https://www.python.org/download/releases/2.7/)
+- [Python 3.6](https://www.python.org/download/releases/3.6/)
 - [NumPy](http://www.numpy.org/)
 - [pandas](http://pandas.pydata.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
