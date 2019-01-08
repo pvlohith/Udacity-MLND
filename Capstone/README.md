@@ -1,7 +1,7 @@
 Information about the project and data source are found in the project proposal and report.
 
-This project requires Python >= 3.6
-Libraries used for this project:
+This project requires Python >= 3.6                                                                                                       
+Libraries used for this project:                                                                                                           
 Pandas 0.23.4                                                                                                                             
 Numpy 1.14.3                                                                                                                               
 scikit learn 0.19.1                                                                                                                       
